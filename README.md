@@ -4,6 +4,8 @@
 </center>
 
 # StHub Caddy
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftaryev%2Fsthub-caddy.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftaryev%2Fsthub-caddy?ref=badge_shield)
+
 
 Custom [Caddy](https://github.com/caddyserver/caddy) build tailored for my homelab usage.   
 
@@ -89,3 +91,6 @@ OVH_APPLICATION_KEY=your_key
 OVH_APPLICATION_SECRET=your_secret
 OVH_CONSUMER_KEY=your_consumer_key
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftaryev%2Fsthub-caddy.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftaryev%2Fsthub-caddy?ref=badge_large)
